@@ -5,7 +5,7 @@ from busqueda_personas import demo as busqueda_personas_demo
 
 def main():
     print("=" * 60)
-    print("ALGORITMOS - MÉTODO MAESTRO")
+    print("TALLER DE ALGORITMOS - MÉTODO MAESTRO")
     print("=" * 60)
     print()
     merge_sort_demo()
